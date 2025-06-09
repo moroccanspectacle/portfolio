@@ -4,8 +4,8 @@ Welcome to my personal software engineering portfolio website! This site showcas
 
 ## 🌐 Live Demo
 
-[Click here to view the portfolio](https://yourusername.github.io/your-repo-name/)  
-*(Update the link after deployment)*
+[Click here to view the portfolio](https://moroccanspectacle.github.io/portfolio/)  
+
 
 ---
 
@@ -28,7 +28,7 @@ I’m **Ziad Harakat**, a devoted and exceptionally driven software engineer bas
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| **Secure Document Sharing Platform** | Spring Boot, React, AWS S3, PostgreSQL | A secure file-sharing web platform with JWT auth, audit logs, and RBAC. |
+| **Secure Document Sharing Platform** | Node.js, React, DigitalOcean, PostgreSQL | A secure file-sharing web platform with JWT auth, audit logs, and RBAC. |
 | **Smart City Web Guide** | Spring Boot, React, MySQL | Web app with modules for admin, tourism, student services, jobs, and business directory. |
 | **School Management System** | Flutter, Firebase | Role-based mobile app for admin, teachers, and students. |
 | **Human Resource App** | Java, Android Studio | Streamlined recruitment with in-app CV viewing and email integration. |
@@ -39,7 +39,7 @@ I’m **Ziad Harakat**, a devoted and exceptionally driven software engineer bas
 ## 🧠 Education
 
 - 🎓 **Bachelor of Science in Software Engineering**  
-  *Cardiff Metropolitan University* (2023 – Present)
+  *Cardiff Metropolitan University* (2023 – 2025)
 
 - 🎓 **Advanced Diploma in Computer & IT**  
   *Dammam Community College - KFUPM* (2020 – 2023)  
@@ -61,14 +61,7 @@ I’m **Ziad Harakat**, a devoted and exceptionally driven software engineer bas
 
 - 📧 Email: [ziadharakat44@gmail.com](mailto:ziadharakat44@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/ziadharakat](https://linkedin.com/in/ziadharakat) *(update if available)*
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 💻 GitHub: [github.com/yourusername](https://github.com/moroccanspectacle)
 
 ---
 
-## 🚀 Deployment
-
-To deploy this portfolio using GitHub Pages:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
