@@ -60,8 +60,8 @@ I’m **Ziad Harakat**, a devoted and exceptionally driven software engineer bas
 ## 📫 Contact
 
 - 📧 Email: [ziadharakat44@gmail.com](mailto:ziadharakat44@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/ziadharakat](https://linkedin.com/in/ziadharakat) *(update if available)*
-- 💻 GitHub: [github.com/yourusername](https://github.com/moroccanspectacle)
+- 🔗 LinkedIn: [https://linkedin.com/in/ziadharakat](www.linkedin.com/in/ziad-harakat-4854b122b)
+- 💻 GitHub: [github.com/moroccanspectacle](https://github.com/moroccanspectacle)
 
 ---
 
